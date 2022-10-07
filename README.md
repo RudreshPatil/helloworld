@@ -1,7 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
 
-> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
 
 [![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
 
@@ -53,13 +52,13 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-advanced.git).
+3. Download project from github(https://github.com/RudreshPatil/onlineshopping).
  
  OR follow gitbash commands
 
     i>cd C:\\xampp\htdocs\
 
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+    ii>git clone https://github.com/RudreshPatil/onlineshopping
 
 4. extract files in C:\\xampp\htdocs\.
 
@@ -79,18 +78,6 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 12. admin login details  Email=admin@gmail.com and Password=123456789.
 
-## If you like my project 
-   Bye me Cup of coffee
-
-### Google pay or phonepay number 9535688928
-
-## visit my other repository with beautiful admin pages with below link
-
-  https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page
-  
-  https://github.com/PuneethReddyHC/event-management/
-
-## If you like my project hit a start
 
 
 ## Screenshots
